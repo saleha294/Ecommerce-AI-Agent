@@ -1,0 +1,6 @@
+.env
+__pycache__/
+line_follower.py
+test_gemini.py
+venv/
+system.md
